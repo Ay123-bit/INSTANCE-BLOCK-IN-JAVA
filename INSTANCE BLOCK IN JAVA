@@ -1,0 +1,15 @@
+//INPUT
+class A{
+    A(){
+        System.out.println("Coding is fun");
+    }
+    {
+        System.out.println("Let's Learn Coding");
+    }
+    public static void main(String[] args){
+    A r=new A();
+    }
+}
+//OUTPUT
+Let's Learn Coding
+Coding is fun
